@@ -1,3 +1,4 @@
 # saneha-akhtar.github.io
-portfolio /n
+portfolio 
+
 poucha mn ne kia ?
